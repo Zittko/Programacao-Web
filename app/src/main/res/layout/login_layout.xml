@@ -16,5 +16,10 @@
         android:textColor="#3123C3"
         android:textStyle="bold"
         android:textSize="40sp" />
-
+    <ImageView
+        android:id="@+id/imgVoltar"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:src="@drawable/baseline_arrow_back_ios_new"/>
 </LinearLayout>
